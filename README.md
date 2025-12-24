@@ -14,6 +14,6 @@ A simple age calculator built using HTML, CSS, and JavaScript.
 
 ## How to Run
 1. Clone the repository
-2. Open `index.html` in browser
+2. Open `index.html` in browser 
 
 
