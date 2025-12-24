@@ -27,7 +27,7 @@ function calculateAge() {
 
 
  /* 
- document.getElementById()	Gets HTML element
+ document.getElementById()	    Gets HTML element
  new Date(dob)	                Converts input to date
 getFullYear()	                Gets year
 getMonth()	                    Gets month (0–11)
